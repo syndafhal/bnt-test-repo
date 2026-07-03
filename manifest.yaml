@@ -16,7 +16,6 @@ spec:
 
   tensorboard:
     enabled: true
-
   types:
     worker:
       count: 1
